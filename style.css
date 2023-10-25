@@ -1,0 +1,84 @@
+body{
+    font-family: 'Open Sans';
+    margin: 0;  
+    padding: 0;
+    color: #555;
+    
+}
+
+h1,h2{
+    color: black;
+}
+
+.top-bar{
+    text-align: center;
+    background-color: rgb(51, 51, 51);
+    font-weight: bolder;
+    padding: 8px;
+    color: white;
+    border-bottom: solid 5px rgb(253, 138, 36) ;;
+}
+
+.contender{
+    max-width: 888px;
+    margin: auto;
+    padding: 30px
+}
+
+.headline{
+    font-size: 56px;
+    font-weight: 64px;
+}
+
+.subtitle{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.autor{
+    font-size: 0.8em;
+    font-weight: bold   ;
+}
+
+.social_icons{
+    margin-top: 10px;
+}
+
+.social_icon{
+    width: 20px;
+    padding: 10px 10px 10px 0;
+} 
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #fd8a24;
+}
+
+.contet{
+    max-width: 648px;
+    margin: auto;
+}
+
+p{
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.cpa{
+    font-size: 20px;
+    margin: 30px 0;
+}
+
+figure{
+    padding: 0;
+    margin: 0;
+}
+
+img{
+    width: 100%;
+}
+
+.chuv{
+    height: 400px;
+}
